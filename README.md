@@ -1,4 +1,4 @@
-# Email-Marketing-Data-Analysis
+# Email Marketing Data Analysis
 
 ## Project Overview
 

@@ -16,4 +16,8 @@ Using **SQLite** for data exploration and **Power BI** for visualization, the an
 
 ### 🧰 Tools & Skills
 
-SQLite · Power BI · Data Cleaning · Exploratory Data Analysis · Data Visualization · Marketing Analytics
+**SQLite**: Data cleaning, transformation, and exploration
+
+**Power BI**: Interactive dashboards and visualization
+
+**Skills**: Data Cleaning · Exploratory Data Analysis (EDA) · Marketing Analytics · Data Visualization

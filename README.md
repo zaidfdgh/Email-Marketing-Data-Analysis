@@ -1,4 +1,5 @@
 # Email Marketing Data Analysis
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 ### 📌 Project Overview
 

@@ -14,6 +14,6 @@ Using **SQL** for data exploration and **Power BI** for visualization, the analy
 4. Who are the "at-risk" users?
 5. What's the final story?
 
-## 🧰 Tools & Skills
+### 🧰 Tools & Skills
 
 SQL · Power BI · Data Cleaning · Exploratory Data Analysis · Data Visualization · Marketing Analytics
